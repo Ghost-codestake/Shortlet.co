@@ -19,4 +19,10 @@ A responsive and modern website for a shortlet rental company, built using **HTM
 - JavaScript (Vanilla)
 
 ## 📁 Folder Structure
+shortlet.co/
+├── images
+├── index.html
+├── script.js
+├── style.css
+└── README.md
 
